@@ -20,7 +20,7 @@ To run the script, you need to provide the following command-line arguments:
 
 * `-u` or `--wallet_url`: The URL of the wallet RPC server.
 * `-d` or `--destination_address`: The destination wallet address to send the transaction to.
-* `-a` or `--amount`: The amount (in the native unit of the cryptocurrency) to send in each transaction.
+* `-a` or `--amount`: The amount (in Monero-Classic units) to send in each transaction.
 * `-t` or `--sleep_time`: Optional. The time (in seconds) to wait between checks for the new block height. Default is 30 seconds.
 
 ## Example
